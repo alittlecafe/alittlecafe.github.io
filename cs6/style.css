@@ -1,0 +1,29 @@
+div.rounded {
+    font-family: 'Rounded Mplus 1c';
+    font-weight: 300;
+}
+
+.caption{
+    margin: auto;
+   padding: auto;
+}
+
+.comment {
+    border-bottom: dotted 1px;
+    
+}
+
+.contents{
+   margin: auto;
+   padding: auto;
+   text-align: center; 
+}
+
+.cover{
+    box-shadow: 0 0 8px gray;
+}
+
+.abs{
+    background-color: #E6F7DE;
+
+}
