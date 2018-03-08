@@ -1,0 +1,52 @@
+div.rounded {
+    font-family: 'Rounded Mplus 1c';
+    font-weight: 300;
+}
+
+.headers{
+    font-family: 'Rounded Mplus 1c';
+    font-weight: 300;
+}
+
+.caption{
+    margin: auto;
+   padding: auto;
+}
+
+.comment {
+    border-bottom: dotted 1px;
+    
+}
+
+.contents{
+   margin: auto;
+   padding: auto;
+   text-align: center; 
+}
+
+.cover{
+    -webkit-filter: drop-shadow(0 0 5px rgba(0, 0, 0, .5));
+}
+
+.abs{
+    background-color: #E6F7DE;
+    align-items: center;
+
+}
+
+.captions{
+    text-align: center;
+}
+
+.guest{
+    background-color:#FEFDE0;
+}
+
+.gimage img{
+    -webkit-filter: drop-shadow(0 0 5px rgba(0, 0, 0, .5));
+    border-radius: 50%;
+}
+
+.contacts {
+    background-color: #D5F3DD;
+}
