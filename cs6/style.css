@@ -3,6 +3,11 @@ div.rounded {
     font-weight: 300;
 }
 
+.headers{
+    font-family: 'Rounded Mplus 1c';
+    font-weight: 300;
+}
+
 .caption{
     margin: auto;
    padding: auto;
@@ -20,11 +25,12 @@ div.rounded {
 }
 
 .cover{
-    box-shadow: 0 0 8px gray;
+    -webkit-filter: drop-shadow(0 0 5px rgba(0, 0, 0, .5));
 }
 
 .abs{
     background-color: #E6F7DE;
+    align-items: center;
 
 }
 
@@ -33,9 +39,14 @@ div.rounded {
 }
 
 .guest{
-    background-color:darkkhaki;
+    background-color:#FEFDE0;
 }
 
 .gimage img{
+    -webkit-filter: drop-shadow(0 0 5px rgba(0, 0, 0, .5));
     border-radius: 50%;
+}
+
+.contacts {
+    background-color: #D5F3DD;
 }
