@@ -27,3 +27,11 @@ div.rounded {
     background-color: #E6F7DE;
 
 }
+
+.guest{
+    background-color:darkkhaki;
+}
+
+.gimage img{
+    border-radius: 50%;
+}
