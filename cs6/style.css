@@ -28,6 +28,10 @@ div.rounded {
 
 }
 
+.captions{
+    text-align: center;
+}
+
 .guest{
     background-color:darkkhaki;
 }
